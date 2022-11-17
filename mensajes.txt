@@ -1,0 +1,63 @@
+[
+  {
+    "email": "juan@gmail.com",
+    "text": "¡Hola! ¿Que tal?",
+    "time": "15/11/2022 05:21:58",
+    "id": 1
+  },
+  {
+    "email": "pedro@gmail.com",
+    "text": "¡Muy bien! ¿Y vos?",
+    "time": "15/11/2022 05:21:58",
+    "id": 2
+  },
+  {
+    "email": "ana@gmail.com",
+    "text": "¡Genial!",
+    "time": "15/11/2022 05:21:58",
+    "id": 3
+  },
+  {
+    "email": "kevin_asf@hotmail.es",
+    "text": "Hola txt",
+    "time": "15/11/2022 05:28:26",
+    "id": 4
+  },
+  {
+    "email": "vicho@gmail.com",
+    "text": "asdmlndjasn",
+    "id": 5
+  },
+  {
+    "email": "vicho@gmail.com",
+    "text": "asdmlndjasn",
+    "id": 6
+  },
+  {
+    "email": "vicho@gmail.com",
+    "text": "asdmlndjasnsss",
+    "id": 7
+  },
+  {
+    "email": "sadsad@gmail.com",
+    "text": "23asddas",
+    "id": 8
+  },
+  {
+    "email": "dasdas@gmail.com",
+    "text": "dasdasda123",
+    "id": 9
+  },
+  {
+    "email": "dsadaf@gmail.com",
+    "text": "que hora es?",
+    "time": "16/11/2022 22:47:24",
+    "id": 10
+  },
+  {
+    "email": "gafasfa@gmail.com",
+    "text": "no lo sé la verdad",
+    "time": "16/11/2022 22:48:4",
+    "id": 11
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Galletas",
+    "price": 12990,
+    "thumbnail": "https://s1.eestatic.com/2020/04/16/cocinillas/recetas/postres/reposteria-galletas-postres_482962222_150389308_1706x960.jpg",
+    "id": 1
+  },
+  {
+    "title": "Papitas Fritas",
+    "price": 11990,
+    "thumbnail": "https://comidaschilenas.com/wp-content/uploads/2020/01/Receta-de-papas-fritas-perfectas.jpg",
+    "id": 2
+  },
+  {
+    "title": "Chocolateee",
+    "price": 15990,
+    "thumbnail": "https://www.morningstar.co.uk/static/UploadManager/Assets/Chocolate.jpg",
+    "id": 3
+  },
+  {
+    "title": "Collacs",
+    "price": "1990",
+    "thumbnail": "https://static8.depositphotos.com/1000855/895/i/950/depositphotos_8950003-stock-photo-lollipop.jpg",
+    "id": 4
+  },
+  {
+    "title": "dsadas",
+    "price": "1231432",
+    "thumbnail": "fajnafsk",
+    "id": 5
+  },
+  {
+    "title": "ahora síqsí",
+    "price": "12312989",
+    "thumbnail": "dsjfndfsfds",
+    "id": 6
+  }
+]

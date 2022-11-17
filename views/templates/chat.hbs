@@ -1,0 +1,53 @@
+<section class="row">
+    <div class="col-12">
+        <h1 class="text-center">Formulario:</h1>
+        <form onsubmit="return addProduct(this)">
+            <div class="mb-3">
+                <label for="title" class="form-label">Título del producto</label>
+                <input type="text" class="form-control" id="title" aria-describedby="tituloProducto" name="title">
+            </div>
+            <div class="mb-3">
+                <label for="precio" class="form-label">Precio del producto</label>
+                <input type="number" class="form-control" id="precio" aria-describedby="precioProducto" name="price">
+            </div>
+            <div class="mb-3">
+                <label for="thumbnail" class="form-label">Link al Thumbnail/Imagen del producto</label>
+                <input type="text" class="form-control" id="thumbnail" aria-describedby="linkImagenProducto" name="thumbnail">
+            </div>
+            <button type="submit" class="btn btn-primary">Enviar</button>
+        </form>
+    </div>
+</section>
+<section class="row">
+    <div class="col-12">
+        <h2 class="text-center">Lista de productos</h2>
+    </div>
+    <div class="col align-self-center">
+        <table class="table">
+            <thead>
+            <tr>
+                <th scope="col">Nombre</th>
+                <th scope="col">Precio</th>
+                <th scope="col">Foto</th>
+            </tr>
+            </thead>
+            <tbody id="productos">
+            </tbody>
+        </table>
+    </div>
+</section>
+<section>
+    <h2>Centro de Mensajes</h2>
+    <form onsubmit="return addMessage(this)">
+        <div class="mb-3">
+            <label for="email" class="form-label">¿Cuál es tu correo?</label>
+            <input type="email" class="form-control" id="email" aria-describedby="correo">
+        </div>
+        <div class="mb-3">
+            <label for="texto" class="form-label">¿Cuál es tu mensaje?</label>
+            <input type="text" class="form-control" id="texto" aria-describedby="mensaje">
+        </div>
+        <button type="submit" class="btn btn-primary">Enviar</button>
+    </form>
+    <div id="messages"></div>
+</section>
